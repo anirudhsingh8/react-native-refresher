@@ -6,13 +6,13 @@ This is my personal React Native refresher journey where I will build several to
 
 ### 1. Simple Counter App
 - **Concepts Covered**: useState, Button handling, Styling
-- [Link to Repository](#) <!-- Update with repo link once done -->
-- ✅ **Status**: Not Started
+- [Link to Repository](https://github.com/anirudhsingh8/Counter.git)
+- ✅ **Status**: Completed
 
 ### 2. Basic To-Do App
 - **Concepts Covered**: State management, Input handling, Dynamic Lists
-- [Link to Repository](#) <!-- Update with repo link once done -->
-- ✅ **Status**: Not Started
+- [Link to Repository](#)
+- ✅ **Status**: In Progress
 
 ---
 
@@ -20,12 +20,12 @@ This is my personal React Native refresher journey where I will build several to
 
 ### 3. Weather App
 - **Concepts Covered**: API calls, useEffect, Async data handling
-- [Link to Repository](#) <!-- Update with repo link once done -->
+- [Link to Repository](#)
 - ✅ **Status**: Not Started
 
 ### 4. Currency Converter App
 - **Concepts Covered**: API calls, Dynamic UI updates
-- [Link to Repository](#) <!-- Update with repo link once done -->
+- [Link to Repository](#)
 - ✅ **Status**: Not Started
 
 ---
@@ -34,12 +34,12 @@ This is my personal React Native refresher journey where I will build several to
 
 ### 5. Expense Tracker
 - **Concepts Covered**: Stack navigation, Form handling, State management
-- [Link to Repository](#) <!-- Update with repo link once done -->
+- [Link to Repository](#)
 - ✅ **Status**: Not Started
 
 ### 6. Instagram Clone (Basic)
 - **Concepts Covered**: Tab Navigation, Gesture handling, UI Design
-- [Link to Repository](#) <!-- Update with repo link once done -->
+- [Link to Repository](#)
 - ✅ **Status**: Not Started
 
 ---
@@ -48,12 +48,12 @@ This is my personal React Native refresher journey where I will build several to
 
 ### 7. Photo Gallery App
 - **Concepts Covered**: Camera access, Local storage, Permissions
-- [Link to Repository](#) <!-- Update with repo link once done -->
+- [Link to Repository](#)
 - ✅ **Status**: Not Started
 
 ### 8. Notes App with Local Storage
 - **Concepts Covered**: AsyncStorage, Persistent Data, Search feature
-- [Link to Repository](#) <!-- Update with repo link once done -->
+- [Link to Repository](#)
 - ✅ **Status**: Not Started
 
 ---
@@ -62,14 +62,14 @@ This is my personal React Native refresher journey where I will build several to
 
 ### 9. Recipe App
 - **Concepts Covered**: Multi-screen navigation, API integration, Storage, Animations
-- [Link to Repository](#) <!-- Update with repo link once done -->
+- [Link to Repository](#)
 - ✅ **Status**: Not Started
 
 ---
 
 ### Progress Summary 📊
-- Projects Completed: 0/9
-- [View My GitHub Profile](https://github.com/yourusername)
+- Projects Completed: 1/9
+- [View My GitHub Profile](https://github.com/anirudhsingh8)
 
 ---
 
