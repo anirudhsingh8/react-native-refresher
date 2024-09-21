@@ -11,8 +11,8 @@ This is my personal React Native refresher journey where I will build several to
 
 ### 2. Basic To-Do App
 - **Concepts Covered**: State management, Input handling, Dynamic Lists
-- [Link to Repository](#)
-- ✅ **Status**: In Progress
+- [Link to Repository](https://github.com/anirudhsingh8/TodoApp.git)
+- ✅ **Status**: Completed
 
 ---
 
@@ -68,14 +68,14 @@ This is my personal React Native refresher journey where I will build several to
 ---
 
 ### Progress Summary 📊
-- Projects Completed: 1/9
+- Projects Completed: 2/9
 - [View My GitHub Profile](https://github.com/anirudhsingh8)
 
 ---
 
 ### Milestones
 
-- [ ] Complete Week 1: Basics Refresher
+- [x] Complete Week 1: Basics Refresher
 - [ ] Complete Week 2: Intermediate Concepts
 - [ ] Complete Week 3: Advanced UI and Navigation
 - [ ] Complete Week 4: Storage and Device Integration
