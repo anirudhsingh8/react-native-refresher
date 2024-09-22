@@ -19,9 +19,9 @@ This is my personal React Native refresher journey where I will build several to
 ## Week 2: Intermediate Concepts ⚙️
 
 ### 3. Weather App
-- **Concepts Covered**: API calls, useEffect, Async data handling
-- [Link to Repository](#)
-- ✅ **Status**: Not Started
+- **Concepts Covered**: API calls, State management, Async data handling
+- [Link to Repository](https://github.com/anirudhsingh8/WeatherApp.git)
+- ✅ **Status**: Completed
 
 ### 4. Currency Converter App
 - **Concepts Covered**: API calls, Dynamic UI updates
@@ -68,7 +68,7 @@ This is my personal React Native refresher journey where I will build several to
 ---
 
 ### Progress Summary 📊
-- Projects Completed: 2/9
+- Projects Completed: 3/9
 - [View My GitHub Profile](https://github.com/anirudhsingh8)
 
 ---
