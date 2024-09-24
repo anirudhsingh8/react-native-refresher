@@ -25,8 +25,8 @@ This is my personal React Native refresher journey where I will build several to
 
 ### 4. Currency Converter App
 - **Concepts Covered**: API calls, Dynamic UI updates
-- [Link to Repository](#)
-- ✅ **Status**: Not Started
+- [Link to Repository](https://github.com/anirudhsingh8/CurrencyConverter.git)
+- ✅ **Status**: Completed
 
 ---
 
@@ -68,7 +68,7 @@ This is my personal React Native refresher journey where I will build several to
 ---
 
 ### Progress Summary 📊
-- Projects Completed: 3/9
+- Projects Completed: 4/9
 - [View My GitHub Profile](https://github.com/anirudhsingh8)
 
 ---
@@ -76,7 +76,7 @@ This is my personal React Native refresher journey where I will build several to
 ### Milestones
 
 - [x] Complete Week 1: Basics Refresher
-- [ ] Complete Week 2: Intermediate Concepts
+- [x] Complete Week 2: Intermediate Concepts
 - [ ] Complete Week 3: Advanced UI and Navigation
 - [ ] Complete Week 4: Storage and Device Integration
 - [ ] Complete Final Project
@@ -86,6 +86,6 @@ This is my personal React Native refresher journey where I will build several to
 ### Tools & Resources Used
 - **React Native Documentation**: [Official Docs](https://reactnative.dev/docs/getting-started)
 - **React Navigation**: [React Navigation Docs](https://reactnavigation.org/docs/getting-started)
-- **APIs**: OpenWeatherMap, CurrencyLayer, etc.
+- **APIs**: OpenWeatherMap, ExchangeRateApi, etc.
 
 Happy Coding! ✨
