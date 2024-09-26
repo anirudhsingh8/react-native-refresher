@@ -34,8 +34,8 @@ This is my personal React Native refresher journey where I will build several to
 
 ### 5. Expense Tracker
 - **Concepts Covered**: Stack navigation, Form handling, State management
-- [Link to Repository](#)
-- ✅ **Status**: Not Started
+- [Link to Repository](https://github.com/anirudhsingh8/ExpenseTracker.git)
+- ✅ **Status**: Completed
 
 ### 6. Instagram Clone (Basic)
 - **Concepts Covered**: Tab Navigation, Gesture handling, UI Design
@@ -68,7 +68,7 @@ This is my personal React Native refresher journey where I will build several to
 ---
 
 ### Progress Summary 📊
-- Projects Completed: 4/9
+- Projects Completed: 5/9
 - [View My GitHub Profile](https://github.com/anirudhsingh8)
 
 ---
